@@ -50,7 +50,6 @@ Let us understand different methods one can use to represent the 3D models.
 ![test](https://user-images.githubusercontent.com/28274170/138573199-98f8ea07-a745-438a-9ec5-ea36238ef0be.png)
 ![Object_in_Unity](https://user-images.githubusercontent.com/28274170/138573201-f8159268-accf-42e2-a84e-244c8ff989fe.JPG)
 
-
-https://user-images.githubusercontent.com/28274170/138573202-846108ad-24be-4b73-8c9d-372ed7310e21.mp4
+https://user-images.githubusercontent.com/28274170/138573267-cdcdbb9e-5407-4a84-95f9-d7fc1a1bf6a7.mp4
 
 ![result_test_256](https://user-images.githubusercontent.com/28274170/138573203-db8a5a2b-73e4-44b4-8b44-f628305fad20.png)
